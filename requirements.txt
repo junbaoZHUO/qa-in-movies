@@ -1,0 +1,6 @@
+spacy
+spacy_lookup
+flask
+py2neo
+flask
+flask-cors

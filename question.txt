@@ -1,0 +1,35 @@
+朱德在难过地分析形势
+
+Eduardo Saverin rides with Mark Zuckerberg
+What is the relationship between Eduardo Saverin and Mark Zuckerberg
+Eduardo Saverin blames Mark Zuckerberg
+Mark Zuckerberg works on computer
+tt1285016
+
+where does Whip Whitaker pay a hospital visit?
+who talk on the phone
+Whip Whitaker pay a hospital visit at hospital room
+tt1907668
+
+朱德在难过地分析形式
+朱德难过地分析形式（实体解析返回空）
+tt4976086
+
+测试记得更换ttconst！！！！！！！！
+# 测试问题分类
+scene
+action,character,event,expression,interaction,relationship
+
+character interaction character: tt1285016,Eduardo Saverin blames Mark Zuckerberg
+character action: tt1285016,Mark Zuckerberg works on computer
+character expression action: tt4976086, 朱德在难过地分析形式
+character event scene: tt1907668, Whip Whitaker pay a hospital visit at hospital room
+event: tt1907668, talk on the phone（实体解析返回空）
+scene: tt1907668, hotel room（实体解析返回空）
+空结果，重新查询测试：tt1285016，Eduardo Saverin rides with Mark Zuckerberg
+问relationship：tt1285016，What is the relationship between Eduardo Saverin and Mark Zuckerberg
+问character：
+tt1907668, who talk on the phone
+tt1285016，who is the best friend of Eduardo Saverin（实体识别错）
+问scene：
+tt1907668,where does Whip Whitaker pay a hospital visit?
