@@ -1,0 +1,594 @@
+where
+hotel room
+airplane cabin
+cockpit
+hotel
+apartment building
+field
+hospital room
+hospital
+staircase
+street
+farm house; office
+restaurant
+bar, restaurant
+car
+farm house
+office
+living room
+balcony
+chapel
+meeting room
+garage
+bedroom
+living room, street
+hangar
+house
+patio
+elevator
+auditorium
+meeting room; auditorium
+prison yard; prison
+building
+city plaza
+television studio
+boat
+farm
+bar; bus; political rally; office
+hallway
+apartment
+city
+house; television studio
+rooftop
+house; campaign room
+hall
+bathroom
+
+park
+house, office
+park; bus
+bus
+bus; street
+street; bus
+bus; office
+conference room
+office building
+veterinarians office
+parking garage
+bar
+street; home
+street; house
+park; restaurant
+dance studio
+club
+waiting room
+theatre
+taxi
+building; hospital
+farm; office
+pumping station; dance studio
+pumping station
+street; pumping station
+courthouse
+street; building
+courthouse; parking garage; building
+baseball field; street; bathroom
+police station
+airfield
+slum
+classroom
+slum; police station
+garbage dump
+yard
+home
+forest
+railroad track
+train compartment
+train
+monument
+river bank
+tunnel
+brothel
+construction site
+train station
+television studio; street
+television studio; city
+mountain
+cave
+ship
+university
+dock
+library
+tomb
+cafe
+ocean
+castle
+country road
+army base
+airport terminal
+zeppelin
+countryside
+beach
+arcade
+tank
+canyon
+temple
+dorm room
+campus
+campus, bedroom
+river
+dining hall
+clubhouse
+yard, conference room
+doorway
+conference room, dorm room
+fastfood restaurant
+computer room
+boathouse
+conference room, restaurant
+pool
+kitchen
+nightclub
+banquet hall
+bank
+office; police station
+art studio
+art studio/house
+doctors office
+clothing store
+parking lot
+hotel entrance
+hotel lobby
+elevator; hallway
+hotel suite
+hotel suite; home office
+bathroom; home office
+hotel suite; apartment
+hotel suite; office
+office; hotel suite
+hotel lounge
+office; clothing store
+polo field
+hotel suite; elevator
+lobby
+opera house
+hotel; bathroom
+conference room; office
+street; park
+limousine
+apartment; street; staircase
+house, yard
+corn field
+doorstep
+bookstore
+pharmacy
+closet
+dining room
+basement
+plaza
+basketball court
+bedroom, street
+beach house
+garden
+hollywood sign
+photo studio
+cafeteria
+dentists office
+storage space
+hotel room, parking lot
+bar; parking lot
+office; car
+car, street
+car; street
+store, parking lot
+car, bathroom, street
+car, street, bathroom
+house, car, street
+police car
+study room
+study room; living room
+car; bathroom
+bathroom; car
+bathroom, car
+room
+stadium
+oil field
+bar; house
+desert
+border
+supermarket
+lab
+restroom
+front of the office
+lab; hospital
+interrogation room
+road
+courtroom
+corridor
+cemetery
+diner
+porch
+kitchen; bathroom
+car rental
+prison
+park bench
+airplane cabin; car
+residential neighborhood
+coast
+racecourse
+racecourse; car
+office; bar
+playground
+drugstore
+field; office
+offiece; field
+field; field road
+office; hotel room
+office; hotel
+museum
+phone booth
+truck
+phone booth; lodge
+rail station
+house; car
+biology laboratory
+workshop
+athletic field
+studio
+music store
+paintball park
+ballroom
+church
+kitchen; street
+house entrance
+childs room
+school
+tent, house
+school theater
+jewelry shop
+tent
+theater
+exhibition area
+living room, bar
+apartment building, playground
+train station, apartment
+entertainment center
+apartment, plaza
+hockey rink
+exhibition hall
+gift shop
+teashop
+bridge
+church entrance
+church ; church
+downtown
+subway train
+gallery
+hallway; elevator
+fair
+subway station
+outdoor restaurant
+apartment; street
+store
+grass
+cottage
+apartment; hallway
+school yard
+class
+record store
+record store; street
+record store; office
+apartment; house
+record store; street; apartment;
+bar; club
+street; kitchen
+train station; train
+park; train
+apartment; record store
+apartment; bar
+apartment; apartment
+record store; apartment
+the door
+street; record store
+record store; bedroom
+house; yarde
+apartment; office
+mental institution
+nurse's sation
+the document
+doctors office; house
+house; town
+door
+living room; bathroom
+attic
+attic; yard
+bathroom; living room; kitchen
+diner parking
+house; street; bedroom
+beedroom
+hotel bar
+hotel; street
+nurse room
+hallway; nurse room
+hospital yard
+nurse's station
+room; hallway
+trailer
+harbor
+shore
+nurse's station; hallway
+tubroom
+tub room
+nurse's room
+living room; nurse's station
+hallway; living room
+hallway; room
+living room; hallway
+hallway; nurse's station
+tub room;hallway;living room
+bedroom; living room
+storage room
+yard; kitchen
+repair shop
+tattoo studio
+grocery store
+archive
+hardware store
+nursing home
+rural road
+house; house; yard
+cabin
+van
+clothing store; beauty salon
+tailoring shop
+zoo
+tavern
+bank vaults
+stairs
+schoolhouse
+stairrway
+classrom
+hallway; classroom
+hallway; yard; room
+stairway; room
+third floor
+dinner
+girl's bathroom
+the field
+staircase; hospital
+golf course
+copy center
+bedroom; kitchen
+office; street
+office; living room
+office; kitchen
+office; house
+phone booth; living room
+living room; kitchen
+football field
+hotel room; office
+locker room
+lawn
+lawn; street
+kitchen; hallway
+hallway; kitchen
+driveway; living room
+lawn; living room
+stadium; living room
+football field; kitchen
+football field; living room
+tv studio
+bus stop
+school bus
+cornfield
+auditorium; garden
+hospital mess
+army hospital mess; hospital mess
+rally
+campsite
+game room
+white house; hotel room
+club; boat
+living room; boat
+house; bedroom
+bench
+yacht
+jetty
+house, basketball court
+school, basketball court
+dressing room
+terrace
+outside building
+outside house
+car, garage
+outdoor cafe
+living rooom
+lounge
+living room, veterinarians office
+liquor store
+camera shop
+barber shop
+podium
+darkroom
+city hall
+legislative chamber
+stage
+office; apartment
+community center
+clinic
+running track
+mall
+house, school
+house; driveway; house
+nursery
+hospital room, bedroom
+wedding hall
+reception hall
+street, office
+street;office
+baseball field
+yoga studio
+bakery
+bakery; apartment building
+gift store
+bridal shop
+mountain, classroom
+street, house
+military aircraft
+military academy
+military plane
+tv
+government office
+army base, park
+forest, government building
+house, army base
+government building
+forest, army base
+highway
+park/office
+driveway; house
+warehouse
+woodshed
+car; grocery store
+yard; car
+mini golf course
+gas station
+casino
+car; lawn
+water tank
+ranch house
+cinema
+cliff
+valley
+beauty salon
+dock; office
+office; dock
+stable
+outdoor cinema
+streeet
+waterfall
+swamp
+dock; jail cell
+jail
+holding cell
+apartment, conference room
+conference room; apartment
+elevator; office building
+soccer field
+house, street
+court house
+coffee shop
+hallway; street
+car, house
+car; porch
+hospital pavement
+helicopter; office
+office; sky
+ski resort
+ski lift
+ski slope
+street; office building
+massage parlor
+pier; balcony
+jail cell
+art gallery
+fountain
+church yard
+the office
+bar; sheepfold
+sheepfold
+meadow
+meadow; tent
+under the bridge
+passage
+yard; house
+room; kitchen
+rodeo; bar
+riding arena
+post office
+woods
+woods; mountain
+lake
+river; bar
+elevator; pool
+pool; house; taxi
+racetrack
+circus
+subway
+casino; street
+street; hotel
+strip club
+casino; room
+hallway; hotel room
+hallway; hotel roome
+car dealership
+house; casino
+institute
+van; institute yard
+van; institute building
+entrance; elevator
+entrance
+house safe
+security center
+hotel room; casino
+hotel room; van
+room without cameras
+vault; hotel room
+boxing hall
+hallway; hotel room; security center
+elevator shaft
+laser room
+casino; hotel room
+boxing hall; street
+room with lasers
+vault
+vault; hotel room; casino; hallway
+hotel room; security center; casino
+security center; restaurant
+security center; casino
+casino; security center
+street; van
+vault; security center
+security center; hotel room; vault; street
+vault; hallway
+hotel room; hallway
+casino; elevator
+elevator; warehouse
+living room, car
+market
+living room, porch
+kitchen, living room
+street, building, lobby
+elevator, corridor
+living room; bar
+living room, bedroom
+restaurant; living room
+car; living room
+living room; car
+pawn shop
+bathroom; living room
+backyard; house
+streetstreet
+outdoor pool
+garden, kitchen
+kitchen, bedroom
+restaurant, house
+house; garden
+bowling alley
+veranda
+bowling
+bowling alley; street
+junkyard
+funeral home
+lobby, office
+clothing store; street
+baseball game
+newsroom
+cafe; television studio
+balloon festival
+hot air balloon; television studio
+hot air balloon
+kindergarden
+secret room
+swimming pool indoor
+animal shelter
